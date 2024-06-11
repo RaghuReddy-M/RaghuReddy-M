@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @RaghuReddy-M
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning Full stack 
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I’m looking to collaborate on python full stack.   developer 
+- 📫 How to reach me->> raghumarthala0@gmail.com
 
 <!---
 RaghuReddy-M/RaghuReddy-M is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
